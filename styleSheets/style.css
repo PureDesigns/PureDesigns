@@ -11,7 +11,7 @@ body {
 }
 
 #header_home {
-    background-image: url(pics/photography/IMG_1450.JPG);
+    background-image: url(/pics/photography/IMG_1450.JPG);
     background-color: lightgoldenrodyellow;
     /* background-position: 0 0; */
     height: 500px;
