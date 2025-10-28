@@ -306,7 +306,25 @@ footer p {
         font-size: 3em;
         padding-bottom: 4%;
     }
+    
+    /* Blog Page */
+    .flexbox {
+        display: block;
+        padding: 4% 0;
+        text-align: center;
+    }
 
+    .flexbox p {
+        text-align: center;
+        padding-top: 2%;
+        padding-bottom: 4%;
+    }
+
+    .blog_img_container {
+        width: 100%;
+    }
+
+    /* Footer */
     footer p {
         padding: 5%;
         font-size: 1.3em;
