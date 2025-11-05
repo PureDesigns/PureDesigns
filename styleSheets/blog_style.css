@@ -1,0 +1,224 @@
+/* All Blog Pages */
+
+/* Home, Blog (Home), & Contact Pages */
+
+* {
+    margin: 0;
+}
+
+body {
+    /* background-color: lightcyan; */
+    background-color: lightseagreen;
+    background-image: linear-gradient(to bottom, lightseagreen, white);
+}
+
+#header_home {
+    background-image: url(/pics/photography/IMG_1450.JPG);
+    background-color: lightgoldenrodyellow;
+    /* background-position: 0 0; */
+    height: 500px;
+    background-size: 100%;
+    background-position: 10%;
+    background-repeat: no-repeat;
+    border-radius: 0 0 20% 20%;
+    box-shadow: 0 0 10px 5px rgba(76, 92, 92, 0.5);
+}
+
+#header_blog {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-shadow: 3px 2px 6px rgb(255, 255, 255);
+    font-size: 1em;
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+nav ul {
+    display: flex;
+    text-align: center;
+    color: black;
+}
+
+nav ul li{
+    list-style-type: none;
+    padding: 20px;
+    font-size: 1.5em;
+}
+
+.nav_align {
+    align-items: center;
+}
+
+.nav_pad {
+    width: 20%;
+    padding: 15px 0;
+    cursor: pointer;
+    justify-content: left;
+}
+
+.logo_img {
+    width: 100%;
+}
+
+header h1 {
+    font-size: 5em;
+}
+
+/* FONTS */
+.sans_sarif {
+    font-family: sans-serif;
+}
+
+/* Nav Dropdown for Portfolio */
+
+.dropdown:hover .dropdown_content {
+    display: block;
+}
+
+.dropdown_content {
+    display: none;
+}
+
+.li_dropdown .dropdown_content:hover {
+    display: block;
+}
+
+/* Main */
+
+/* main alignment */
+.margin {
+    margin: 5% 15%;
+    background-color: white;
+    padding: 4%;
+    border-radius: 20px;
+}
+
+/* about section */
+.about h1 {
+    font-size: 3em;
+    padding-bottom: 4%;
+}
+
+.about h3 {
+    font-size: 2em;
+}
+
+.about h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+.about p, li {
+    font-size: 1.3em;
+}
+
+.about li {
+    list-style-type: none;
+}
+
+.headFont {
+    text-align: right;
+    padding: 10% 20% 0 0;
+}
+
+.headFont p {
+    font-size: 1.3em;
+}
+
+.section {
+    margin: 5% 15% 1% 15%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Verse at the end of the blogs */
+.end_verses {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blog_titles {
+    font-size: 3em;
+    padding-bottom: 1%;
+}
+
+.nextPage {
+    display: flex;
+    /* justify-content: end; */
+    padding-top: 4%;
+}
+
+/* .nextPage:hover {
+    padding: 4% 0 0 4%;
+    transition: 7ms;
+} */
+
+.link_to_next {
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.arrow_right {
+    width: 6%;
+    padding: 0 2%;
+}
+
+.arrow_left{
+    padding: 0 2%;
+    width: 5%;
+}
+
+.arrows_nextPage {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.single_arrow {
+    display: flex;
+}
+
+/* Footer! */
+
+footer {
+    background-color: rgba(32, 178, 170, 0.7);
+}
+
+footer p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 25px 15px;
+    font-size: 1.3em;
+    color: black;
+}
+
+#footer_align_links {
+    align-items:center;
+}
+
+.footer_center_align {
+    text-align: center;
+}
+
+.footerLogo {
+    width: 70%;
+}
+
+.footerPagesLink {
+    display: flex;
+    align-items: baseline;
+    padding-top: 5%;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
