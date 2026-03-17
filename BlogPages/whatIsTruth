@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="blog_style.css">
+    <title>What Is Truth?</title>
+</head>
+<body>
+    <header id="header_blog">
+        <nav>
+            <ul class="nav_align">
+
+                <a class="nav_pad" href="../../PureDesigns/index.html">
+                    <img class="logo_img" src="../../PureDesigns/pics/img/LogoBlackText.png" alt="Pure Designs Logo">
+                </a>
+                <li class="links">
+                    <a href="../../PureDesigns/blog.html">Blog</a>
+                </li>
+                <li class="links dopdown">
+                    <a href="../../PureDesigns/portfolio_landing.html">Portfolio</a>
+                </li>
+                <ul class="dropdown_content">
+                    <li class="li_dropdown">
+                        <a href="../../PureDesigns/art.html">Artwork</a>
+                    </li>
+                    <li class="li_dropdown">
+                        <a href="../../PureDesigns/digital_art.html">Digital Art</a>
+                    </li>
+                    <li class="li_dropdown">
+                        <a href="../../PureDesigns/web.html">Web Design</a>
+                    </li>
+                    <li class="li_dropdown">
+                        <a href="../../PureDesigns/balloons.html">Balloons</a>
+                    </li>
+                </ul>
+                <li class="links">
+                    <a href="../../PureDesigns/Daniel.html">Preach Biblically</a>
+                </li>
+                <li class="links">
+                    <a href="../../PureDesigns/contact.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main class="margin">
+        <section class="about">
+            <h2 class="blog_titles">What Is Truth?</h2>
+            <h2>By Rachel Wood</h2>
+            <p>March 17, 2026</p>
+            <br>
+            <br>
+
+            <p>As I sit and contemplate the meaning of having a sound mind in Christ, I am presented with a few different questions.</p>
+            <br>
+
+            <p>Such as:</p>
+            <ol>
+                <li>How do we receive a sound mind and can we reach it on our own without the aid of God?</li> <!--the anser is no, we can only have a sound mind when we know our Creator and the peace which comes through Jesus Christ once we are free from the condemnation which our sin brings upon us.-->
+                <li>How can we know actual truth from some fabricated idea? This goes into being able to distinguish between the different religions and why there is only one that is true and the others false.</li> <!--Answer: We can know truth if we seek it from our Creator. In the Bible Jesus states that if we seek we will surely find, if we ask we will be answered, and if we knock the door will be opened to us. God has not left us to fend for ourselves in this grand matter of knowing what the purpose of our life is. To know truth, simply ask God to reveal it to you and expect an answer. Do not ask as one who does not believe in God to answer. That is an insult to God. He created man in the beginning of our time for the express purpose to walk with God and have that personal relationship. There is a sad part to this story though, it is the reason we have evil and death in the world. It is the reason why bad things happen to good people. Adam and Eve, who were the first man and woman created by God, disobeyed God's one rule of eating from the tree of knowledge of good and evil (Gen ). Their eyes were open to shame and guilt and they hid themselves from God because they were naked. God had to punish their disobedience by sending them away from the garden and the tree of life which was there in, otherwise the man and woman would forever be in that state of shame and guilt if they ate of that second tree. The reason God had a rule in the garden of Eden was to give man and woman a choice in their obedience to God. He did not create robots, but people who can freely love and obey. This is the way it is today, we can either turn to God to confess our sins and fall on His grace that He offers through Jesus Christ or we can harden our hearts to go our own way according to our own desires. But there is a punishment for our disobedience, just like Adam and Eve had to leave the garden. The wages payed to us for our sin is death, but Jesus gives the free gift of eternal life to all who believe in Him and turn from their evil ways. (look at Romans ) No one is forced into a relationship with God, but all are responsible for their own sin. Just like a court room where a criminal is being sentenced for his crimes that he committed, he rightly deserves the justice that will be carried out. What God did, and planned from the beginning when Adam and Eve sinned, was to send His Son Jesus, the arm of God (), to make a way of atonement to cleanse us from our sins so that we would be freed from the punishment we rightfully deserve. He loved us so much that Jesus came down from heaven, took on human form to meet us where we are to offer us something we could never obtain. Righteousness and holiness before God our Creator and Judge. So, to know truth, it is not about finding a religion that fits your needs, but about you aligning yourself with what God has set in place. Seek to find what God set in place and you will find eternal life through Jesus Christ. When you find that, you will obtain a true relationship with your Creator and will then be able to have a sound mind built on the foundation of God's truth. -->
+                <li></li>
+            </ol>
+
+            <p>The answer to that first question is no. We can only have a sound mind when we know our Creator and the peace which comes through Jesus Christ once we are free from the condemnation which our sin brings upon us.</p>
+            <br>
+
+            <p>The second question leads us to contemplate a little more deeply. How can we know what is truth? We can know truth if we seek it from our Creator. In the Bible Jesus states that if we seek we will surely find, if we ask we will be answered, and if we knock the door will be opened to us. God has not left us to fend for ourselves in this grand matter of knowing what the purpose of our life is. To know truth, simply ask God to reveal it to you and expect an answer. Do not ask as one who does not believe in God to answer. That is an insult to God. He created man in the beginning of our time for the express purpose to walk with God and have that personal relationship. There is a sad part to this story though, it is the reason we have evil and death in the world. It is the reason why bad things happen to good people. Adam and Eve, who were the first man and woman created by God, disobeyed God's one rule of eating from the tree of knowledge of good and evil (Gen ). Their eyes were open to shame and guilt and they hid themselves from God because they were naked. God had to punish their disobedience by sending them away from the garden and the tree of life which was there in, otherwise the man and woman would forever be in that state of shame and guilt if they ate of that second tree. The reason God had a rule in the garden of Eden was to give man and woman a choice in their obedience to God. He did not create robots, but people who can freely love and obey. This is the way it is today, we can either turn to God to confess our sins and fall on His grace that He offers through Jesus Christ or we can harden our hearts to go our own way according to our own desires. But there is a punishment for our disobedience, just like Adam and Eve had to leave the garden. The wages payed to us for our sin is death, but Jesus gives the free gift of eternal life to all who believe in Him and turn from their evil ways. (look at Romans ) No one is forced into a relationship with God, but all are responsible for their own sin. Just like a court room where a criminal is being sentenced for his crimes that he committed, he rightly deserves the justice that will be carried out. What God did, and planned from the beginning when Adam and Eve sinned, was to send His Son Jesus, the arm of God (), to make a way of atonement to cleanse us from our sins so that we would be freed from the punishment we rightfully deserve. He loved us so much that Jesus came down from heaven, took on human form to meet us where we are to offer us something we could never obtain. Righteousness and holiness before God our Creator and Judge. So, to know truth, it is not about finding a religion that fits your needs, but about you aligning yourself with what God has set in place. Seek to find what God set in place and you will find eternal life through Jesus Christ. When you find that, you will obtain a true relationship with your Creator and will then be able to have a sound mind built on the foundation of God's truth.</p>
+            <br>
+            
+            <div class="arrows_nextPage">
+                <a href="myStory.html" class="nextPage">
+                    <img src="../../PureDesigns/pics/Icons/left-arrow.png" alt="From Freepik - arrow" class="arrow_left">
+                    <p class="link_to_next">My Story</p>
+                </a>
+
+                
+                <a href="midnightDreaming.html" class="nextPage">
+                    <p class="link_to_next">Midnight Dreaming</p>
+                    <img src="../../PureDesigns/pics/Icons/right-arrow.png" alt="From Freepik - arrow" class="arrow_right">
+                </a>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <div class="section" id="footer_align_links">
+            <div class="footer_center_align">
+                <div class="footerPagesLink">
+                    <p>
+                        <a href="../../PureDesigns/blog.html">Blog</a>
+                    </p>
+                    <p>
+                        <a href="../../PureDesigns/portfolio_landing.html">Portfolio</a>
+                    </p>
+
+                    <p>
+                        <a href="../../PureDesigns/contact.html">Contact</a>
+                    </p>
+                </div>
+                
+                <a href="../../PureDesigns/index.html">
+                    <img class="footerLogo" src="../../PureDesigns/pics/img/LogoBlackText.png" alt="Pure Designs Logo">
+                </a>
+            </div>
+            <div>
+                <p class="center">"And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment." 1 John 3:23</p>
+            </div>
+        </div>
+        <p class="copyright">&copy Pure Designs | 2025</p>
+    </footer>
+   
+</body>
+</html>
