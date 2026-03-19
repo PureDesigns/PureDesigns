@@ -283,3 +283,26 @@ footer p {
 .center {
     text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+
+    .margin {
+        margin: 4%;
+        background-color: rgba(255, 255, 255, 0.414);
+    }
+
+    /* Blog Landing Page */
+    .flexbox {
+        display: block;
+        justify-content: space-evenly;
+        padding: 4% 0;
+    }
+
+    .blog_img_container {
+        width: 100%;
+    }
+
+    /* Blog Pages: Individual */
+    
+
+}
