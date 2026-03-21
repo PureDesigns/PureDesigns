@@ -291,6 +291,33 @@ footer p {
         background-color: rgba(255, 255, 255, 0.414);
     }
 
+    /* header img */
+    #header_home {
+        background-image: url(../pics/photography/IMG_1450.JPG);
+        background-color: lightgoldenrodyellow;
+        height: auto;
+        background-size: 100%;
+        background-position: 10%;
+        background-repeat: no-repeat;
+        border-radius: 0 0 20% 20%;
+        box-shadow: 0 0 10px 5px rgba(76, 92, 92, 0.5);
+    }
+
+    nav {
+        background-color: rgba(255, 255, 255, 0.277);
+    }
+
+    .nav_pad {
+        width: 40%;
+        padding: 15px 0;
+        cursor: pointer;
+        justify-content: left;
+    }
+
+    .links {
+        display: none;
+    }
+
     /* Blog Landing Page */
     .flexbox {
         display: block;
@@ -302,7 +329,9 @@ footer p {
         width: 100%;
     }
 
-    /* Blog Pages: Individual */
-    
+    /* footer */
+    .section {
+        display: block;
+    }
 
 }
