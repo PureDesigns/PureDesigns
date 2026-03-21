@@ -303,8 +303,14 @@ footer p {
         box-shadow: 0 0 10px 5px rgba(76, 92, 92, 0.5);
     }
 
+    #header_blog {
+        background-color: rgba(255, 255, 255, 0.5);
+        border-radius: 0 0 20% 20%;
+    }
+
     nav {
         background-color: rgba(255, 255, 255, 0.277);
+        border-radius: 0 0 20% 20%;
     }
 
     .nav_pad {
@@ -322,7 +328,7 @@ footer p {
     .flexbox {
         display: block;
         justify-content: space-evenly;
-        padding: 4% 0;
+        padding: 0%;
     }
 
     .blog_img_container {
