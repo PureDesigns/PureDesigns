@@ -342,6 +342,7 @@ footer p {
     /* Contact Page */
     .icons_holder {
         display: block;
+        width: 100%;
     }
 
     /* footer */
