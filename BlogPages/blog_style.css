@@ -238,5 +238,8 @@ footer p {
         display: block;
     }
     
+        .links {
+        display: none;
+    }
 
 }
