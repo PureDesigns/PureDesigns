@@ -246,6 +246,10 @@ header h1 {
     width: 15%;
 }
 
+.contacts {
+    display: block;
+}
+
 footer {
     background-color: rgba(32, 178, 170, 0.7);
 }
