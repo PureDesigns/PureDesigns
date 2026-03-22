@@ -256,8 +256,13 @@ footer p {
     .section {
         display: block;
     }
+
+    footer p {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 15px 15px;
+    }
     
-        .links {
+    .links {
         display: none;
     }
 
