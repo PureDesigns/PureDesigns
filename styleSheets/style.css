@@ -339,6 +339,11 @@ footer p {
         width: 100%;
     }
 
+    /* Contact Page */
+    .icons_holder {
+        display: block;
+    }
+
     /* footer */
     .section {
         display: block;
