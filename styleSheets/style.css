@@ -339,8 +339,11 @@ footer p {
         width: 500%;
     }
 
+    /* Portfolio Landing Page */
     .contaner {
-        width: 50%;
+        display: block;
+        justify-content: space-evenly;
+        padding: 0%;
     }
 
     .portLanding_imgs {
