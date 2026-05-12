@@ -345,10 +345,14 @@ footer p {
         width: 50%;
     }
 
-    .portLanding_imgs {
+    .contaner img {
+        width: fit-content;
+    }
+
+    /* .portLanding_imgs {
         width: fit-content;
         height: auto;
-    }
+    } */
 
     /* Contact Page */
     .icons_holder {
