@@ -209,6 +209,7 @@ header h1 {
 /* Portfolio Landing Page */
 .block {
     display: block;
+    padding-top: 2%;
 }
 
 .contaner {
