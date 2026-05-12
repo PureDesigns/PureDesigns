@@ -339,8 +339,12 @@ footer p {
         width: 100%;
     }
 
+    .containter {
+        width: 50%;
+    }
+
     .portLanding_imgs {
-        
+        width: 50%;
     }
 
     /* Contact Page */
