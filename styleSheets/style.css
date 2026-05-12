@@ -217,7 +217,8 @@ header h1 {
 }
 
 .contaner img {
-    width: auto;
+    width: 50%;
+    height: auto;
 }
 
 /* .portLanding_imgs {
