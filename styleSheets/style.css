@@ -209,7 +209,7 @@ header h1 {
 /* Portfolio Landing Page */
 .contaner {
     display: flex;
-    width: 50%;
+    width: 100%;
 }
 
 .contaner img {
@@ -220,6 +220,13 @@ header h1 {
     width: fit-content;
     height: auto;
 } */
+
+.circle {
+    height: 50px;
+    width: 50px;
+    background-color: #888888;
+    border-radius: 50%;
+}
 
 /* Contact Page - Icons */
 .icons_holder {
