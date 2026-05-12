@@ -341,13 +341,12 @@ footer p {
 
     /* Portfolio Landing Page */
     .contaner {
-        display: block;
-        justify-content: space-evenly;
-        padding: 0%;
+        display: flex;
+        width: 50%;
     }
 
     .portLanding_imgs {
-        width: 50px;
+        width: fit-content;
         height: auto;
     }
 
