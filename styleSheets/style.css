@@ -22,6 +22,18 @@ body {
     box-shadow: 0 0 10px 5px rgba(76, 92, 92, 0.5);
 }
 
+#header_Daniel {
+    background-image: url(../pics/img/PreachBiblically_HeaderGraphic.jpg);
+    background-color: lightgoldenrodyellow;
+    /* background-position: 0 0; */
+    height: 500px;
+    background-size: 100%;
+    background-position: 10%;
+    background-repeat: no-repeat;
+    border-radius: 0 0 20% 20%;
+    box-shadow: 0 0 10px 5px rgba(76, 92, 92, 0.5);
+}
+
 /* #header_blog {
     background-color: rgba(255, 255, 255, 0.5);
 } */
